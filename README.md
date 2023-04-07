@@ -2,13 +2,13 @@
 
 
 
+![Hello](img/Wave.gif){height="32px"}
 
 ## BANNER-HEADING
 ***
 
 
 
-![Hello](img/Wave.gif){height="32px"}
 
 I am Juud and welcome to my mini Visialization Project
 
