@@ -35,9 +35,9 @@ This project displays property ocean proximity on a pie chart
 ***
 
 
-![Pandas](https://pandas.pydata.org/static/img/pandas_white.svg)
 
 
+![Pandas](img/Pandas.png)
 ![MatplotLib](https://matplotlib.org/stable/_images/sphx_glr_logos2_001.png)
 
 
