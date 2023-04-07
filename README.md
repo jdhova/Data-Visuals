@@ -58,6 +58,6 @@ This project displays property ocean proximity on a pie chart
 ### VISUALIATION PROJECT AUTHOR: JUDE
 ***
 
-![ME](img/code.gif)
+![ME](img/code2.gif)
 
 
