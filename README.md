@@ -1,30 +1,43 @@
 
-
+## BANNER-HEADING
+***
 
 
 ![Banner](img/Data_Visualization.png)
 
-### DATA SOURCE:
+## DATA SOURCE:
 ***
+
+This project will be making use of kaggle housing dataset attached below. This dataset shows property value for houses in Califonia USA.
 
 [TRANSACTIONS_CSVFILE](https://www.kaggle.com/datasets/camnugent/california-housing-prices)
 
 
-## OVERVIEW:
+## OVERVIEW
 
 ***
 
 This Project shows a visual represenation using pie chart.
-This project shows the property ocean proximity in a pie chart
+This project displays property ocean proximity on a pie chart
 
 
 
 
-## PIE CHART VISUAL:
+## PIE CHART VISUAL
 
 ***
 
 ![Piechart](img/output.png)
 
+
+### Tech used
+
+***
+
+
+![Pandas](https://pandas.pydata.org/static/img/pandas_white.svg)
+
+
+![MatplotLib](https://matplotlib.org/stable/_images/sphx_glr_logos2_001.png)
 
 
