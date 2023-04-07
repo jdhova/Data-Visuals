@@ -8,7 +8,7 @@
 
 
 
-![Hello](img/Wave.gif){ width="24" height="32"}
+![Hello](img/Wave.gif){width="24" height="32"}
 
 I am Juud and welcome to my mini Visialization Project
 
