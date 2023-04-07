@@ -2,7 +2,7 @@
 
 
 
-![Hello](img/Wave.gif){height="32px"}
+![Hello](img/Wave.gif){ height=50px }
 
 ## BANNER-HEADING
 ***
