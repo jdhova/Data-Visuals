@@ -6,7 +6,7 @@
 ## BANNER-HEADING
 ***
 
-Hello ![alt text](img/Wave.gif) I am Juud and welcome to my mini Visialization Project
+Hello ![alt text](img/Wave.gif){ scale=5% } I am Juud and welcome to my mini Visialization Project
 
 
 ![Banner](img/Data_Visualization.png)
