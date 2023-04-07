@@ -2,18 +2,23 @@
 
 
 
-![Hello](img/Wave.gif,height="50")
+
 
 ## BANNER-HEADING
 ***
 
 
-
-
 I am Juud and welcome to my mini Visialization Project
 
 
+
 ![Banner](img/Data_Visualization.png)
+
+
+
+![Hello](img/code.gif)
+
+
 
 ## DATA SOURCE:
 ***
