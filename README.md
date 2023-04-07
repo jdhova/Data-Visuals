@@ -14,9 +14,9 @@ I am Juud and welcome to my mini Visialization Project
 
 ![Banner](img/Data_Visualization.png)
 
+AND THIS IS WHAT I DO ALL DAY 
 
-
-![Hello](img/code.gif)
+![ME](img/code.gif)
 
 
 
@@ -45,7 +45,7 @@ This project displays property ocean proximity on a pie chart
 ![Piechart](img/output.png)
 
 
-### Tech used
+### Libraries used :
 
 ***
 
