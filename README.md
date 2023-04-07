@@ -1,6 +1,12 @@
 
+
+
+
+
 ## BANNER-HEADING
 ***
+
+Hello ![alt text](img/Wave.gif) I am Juud and welcome to my mini Visialization Project
 
 
 ![Banner](img/Data_Visualization.png)
