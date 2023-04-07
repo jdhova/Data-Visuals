@@ -14,9 +14,7 @@ I am Juud and welcome to my mini Visialization Project
 
 ![Banner](img/Data_Visualization.png)
 
-AND THIS IS WHAT I DO ALL DAY 
 
-![ME](img/code.gif)
 
 
 
@@ -55,5 +53,11 @@ This project displays property ocean proximity on a pie chart
 ![Pandas](img/pandas.png)
 
 ![MatplotLib](https://matplotlib.org/stable/_images/sphx_glr_logos2_001.png)
+
+
+### VISUALIATION PROJECT AUTHOR: JUDE
+***
+
+![ME](img/code.gif)
 
 
